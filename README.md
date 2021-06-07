@@ -47,7 +47,7 @@ The following operations are done here
 - Set the hyperlink of each worksheet in 4th column of directory (ref. line 33)
 - Get the text value of cell M1 of each worksheet and write it to the 5th column of directory (ref. lines 35 and 36)
 
-# Format the columns 
+# Section 3: Format the columns 
 ~~~
     'Set the Column Names and formats it
     With objNewWorksheet
