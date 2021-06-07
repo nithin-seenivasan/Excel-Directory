@@ -68,4 +68,3 @@ The following operations are done here
 
 - Add column names, set font weight to bold, and autosize the volumns 
 - Select cell A2 to return focus of screen to the left most corner
-- 
