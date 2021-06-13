@@ -1,5 +1,5 @@
 ## Introduction
-This is the VBA code used to make a simple Excel directory. The code will be analyzed section by section below. 
+This repo contins the VBA code used to make a simple Excel directory. The step-by-step instructions to actually make the directory are described my article on Medium titled ["Code a directory for a large Excel file in 6 easy steps!"](https://nithin-seenivasan.medium.com/how-to-code-a-directory-for-a-large-excel-file-in-6-easy-steps-a7ae42a19517 "Medium Article").  
 
 ## Section 1: Declaring Variables
 ~~~
